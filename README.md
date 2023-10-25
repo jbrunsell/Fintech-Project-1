@@ -52,40 +52,29 @@ Neil is active in the hospitality industry and found a great dataset around two 
 
 
 1. Data import into Pandas (Jason Brunsell)
-    1. Import CSV
-    2. Rename columns for readability
-    3. Convert dates to DateTime format
-    4. Identify outliers in the data
-    5. Decide whether to eliminate or subgroup outliers
+    * Import CSV
+    * Rename columns for readability
+    * Convert dates to DateTime format
+    * Identify outliers in the data
+    * Decide whether to eliminate or subgroup outliers
 2. Analyze data for Goal 1 - Compare yearly data to look for revenue growth and forecast future revenue (Neil Baride)
-    6. Plot revenue over the timeframe provided
-    7. Use ARIMA to forecast future revenue growth with seasonality
-    8. Generate helpful graphs to demonstrate future revenue
+    * Plot revenue over the timeframe provided
+    * Use ARIMA to forecast future revenue growth with seasonality
+    * Generate helpful graphs to demonstrate future revenue
 3. Analyze data for Goal 2 - Reduce cancellations (Michael Colbert)
-    9. Identify likely relationships with variables provided
-    10. Analyze the cancellations rate as a function of likely inputs
-    11. Suggest variables that could impact the cancellation rate and solutions
-    12. Generate helpful graphs to demonstrate understanding and talk about improvements
+    * Identify likely relationships with variables provided
+    * Analyze the cancellations rate as a function of likely inputs
+    * Suggest variables that could impact the cancellation rate and solutions
+    * Generate helpful graphs to demonstrate understanding and talk about improvements
 4. Analyze data for Goal 3 - Which hotel should we invest in for the future? City vs. Resort (Jett Acuna)
-    13. Use revenue forecasts to identify the better candidate for investment
-5. Analyze data for Goal 4 - Optimize Promotions for the hotels (Jason Brunsell)
-    14. Identify likely relationships with variables provided
-    15. Analyze when the hotels have lower occupancy
-    16. Analyze how far ahead to promote to get bookings
-    17. Calculate when to do promotions
-    18. Generate helpful graphs to demonstrate understanding and talk about improvements
-6. Analyze data for Goal 5 - Target weekly bookings goal over the year (Likely to be cut for time)
-    19. Identify likely relationships with variables provided
-    20. Analyze the occupancy rate over the year
-    21. Calculate possible bookings goals over the year
-    22. Generate helpful graphs to demonstrate understanding and talk about seasonality
-7. Presentation
-    23. Motivation & Summary Slide (Michael Colbert)
-    24. Questions/Goals & Data (Neil Baride)
-    25. Data Cleanup & Exploration (Jason Brunsell)
-    26. Data Analysis/Discussion  (Each person on their Analysis Goal #)
-    27. Postmortem (Jett Acuna)
-    28. Q&A (Team)
+    * Use revenue forecasts to identify the better candidate for investment
+5. Presentation
+    * Motivation & Summary Slide (Michael Colbert)
+    * Questions/Goals & Data (Neil Baride)
+    * Data Cleanup & Exploration (Jason Brunsell)
+    * Data Analysis/Discussion  (Each person on their Analysis Goal #)
+    * Postmortem (Jett Acuna)
+    * Q&A (Team)
 
 
 # Information from the Project Assignment Documents:
